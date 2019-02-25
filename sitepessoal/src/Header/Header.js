@@ -9,7 +9,7 @@ class Header extends Component {
             <div>
                 <nav className="navbar navbar-dark bar">
                     <img src={Eu} className="d-inline-block align-top picture" alt=""/>
-                    <h1>Estevam Alcântara Ponte</h1>
+                    <h1 className="title1">Estevam Alcântara Ponte</h1>
                 </nav>
             </div>
         );
